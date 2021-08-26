@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header-title {
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+}
+
